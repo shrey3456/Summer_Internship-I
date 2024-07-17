@@ -1,4 +1,4 @@
-**5th-Semester Summer Intership at Izonnet Web Solution Pvt.Ltd**
+#5th-Semester Summer Intership at Izonnet Web Solution Pvt.Ltd#
 
 This repository documents my summer internship experience during the 5th semester at Izonnet Web Solution Pvt.Ltd. The primary project was focused on developing an chatting Website Using MERN stack. This README provides a summary of the work completed each day during my summer internship.
 
