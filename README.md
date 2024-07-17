@@ -54,7 +54,7 @@ This repository documents my summer internship experience during the 5th semeste
 - **Static Site**:
   - Built a static site with multiple components to practice component composition.
 
-**Week_2 (20/05/2024 – 25/05/2024): **
+## Week_2 (20/05/2024 – 25/05/2024): ##
 
 1.  **React Array Map and Digital Clock Project:**
     - **Array Mapping:**
@@ -81,7 +81,7 @@ This repository documents my summer internship experience during the 5th semeste
         - Learned how to install and use npm packages. This included understanding the difference between local and global installations, and how to manage dependencies for a Node.js project.
         - Experimented with a few popular npm packages to get a feel for how third-party libraries can be integrated and utilized in Node.js projects.
 
-**Week_3 (27/05/2024 – 01/06/2024):**
+## Week_3 (27/05/2024 – 01/06/2024): ##
 
  **Advanced Node.js Development:**
 
@@ -109,7 +109,7 @@ This repository documents my summer internship experience during the 5th semeste
   - Deepened knowledge of creating and using Node.js modules for modular and reusable code.
   - Explored npm (Node Package Manager) for managing project dependencies and extending functionality with various npm packages.
 
-**Week \_4 (03/06/2024 – 09/06/2024)**
+## Week \_4 (03/06/2024 – 09/06/2024) ##
 
  **Chatting Website Development**
 
@@ -146,7 +146,7 @@ This repository documents my summer internship experience during the 5th semeste
   - Designed responsive UI using CSS, Bootstrap, and Material-UI to ensure accessibility across different devices.
   - Focused on usability to provide an intuitive and visually appealing chat experience
 
-**Week _ 5 (10/06/2024 – 18/06/2024)**
+## Week _ 5 (10/06/2024 – 18/06/2024) ##
 
  **Final Touches and Completion**
 
