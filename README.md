@@ -190,3 +190,32 @@ This repository documents my summer internship experience during the 5th semeste
       - Importance of thorough testing and bug fixing in ensuring software quality.
       - Strategies for UI/UX improvement based on user feedback and usability testing.
       - Experience with documentation as a critical part of software development lifecycle.
+
+# Installation
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/shrey3456/mern-chat-app.git
+
+2. Navigate to the project directory:
+    ```bash
+   cd mern-chat-app
+   cd frontend
+   cd backend
+
+3. Install dependencies:
+    ```bash
+    npm i
+
+4. Start the Frontend:
+    ```bash
+    npm run dev
+
+5. Start the  backend:
+
+    ```bash
+    npm run server
+
