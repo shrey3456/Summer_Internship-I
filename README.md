@@ -1,4 +1,4 @@
-#5th-Semester Summer Intership at Izonnet Web Solution Pvt.Ltd#
+## 5th-Semester Summer Intership at Izonnet Web Solution Pvt.Ltd ##
 
 This repository documents my summer internship experience during the 5th semester at Izonnet Web Solution Pvt.Ltd. The primary project was focused on developing an chatting Website Using MERN stack. This README provides a summary of the work completed each day during my summer internship.
 
@@ -54,8 +54,7 @@ This repository documents my summer internship experience during the 5th semeste
 - **Static Site**:
   - Built a static site with multiple components to practice component composition.
 
-**Week_2 (20/05/2024 – 25/05/2024):  
-**
+**Week_2 (20/05/2024 – 25/05/2024): **
 
 1.  **React Array Map and Digital Clock Project:**
     - **Array Mapping:**
