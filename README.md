@@ -4,7 +4,7 @@ This repository documents my summer internship experience during the 5th semeste
 
 **Company: Izonnet Web Solution Pvt.Ltd**
 
-**Week_1 (13/05/2024 – 18/05/2024):**
+# Week_1 (13/05/2024 – 18/05/2024): #
 
  **Introduction to React**:
 
