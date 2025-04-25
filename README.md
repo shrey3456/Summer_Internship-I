@@ -190,7 +190,8 @@ This repository documents my summer internship experience during the 5th semeste
       - Importance of thorough testing and bug fixing in ensuring software quality.
       - Strategies for UI/UX improvement based on user feedback and usability testing.
       - Experience with documentation as a critical part of software development lifecycle.
-#Our Project Link:  https://github.com/shrey3456/mern-chat-app**
+
+# Project Repo:  https://github.com/shrey3456/mern-chat-app**
 # Installation
 
 To run the project locally, follow these steps:
