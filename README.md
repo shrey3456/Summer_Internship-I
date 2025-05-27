@@ -191,7 +191,7 @@ This repository documents my summer internship experience during the 5th semeste
       - Strategies for UI/UX improvement based on user feedback and usability testing.
       - Experience with documentation as a critical part of software development lifecycle.
 
-# Project Repo:  https://github.com/shrey3456/mern-chat-app**
+# Project Repo: (https://github.com/Dishang18/chat-app.git)**
 # Installation
 
 To run the project locally, follow these steps:
@@ -199,7 +199,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shrey3456/mern-chat-app.git
+  [ git clone (https://github.com/Dishang18/chat-app.git)]
 
 2. Navigate to the project directory:
     ```bash
