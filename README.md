@@ -191,7 +191,7 @@ This repository documents my summer internship experience during the 5th semeste
       - Strategies for UI/UX improvement based on user feedback and usability testing.
       - Experience with documentation as a critical part of software development lifecycle.
 
-# Project Repo: (https://github.com/Dishang18/chat-app.git)**
+# Project Repo: (https://github.com/Dishang18/chat-app.git)
 # Installation
 
 To run the project locally, follow these steps:
