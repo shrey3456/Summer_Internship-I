@@ -203,7 +203,7 @@ To run the project locally, follow these steps:
 
 2. Navigate to the project directory:
     ```bash
-   cd mern-chat-app
+   cd chat-app
    cd frontend
    cd backend
 
